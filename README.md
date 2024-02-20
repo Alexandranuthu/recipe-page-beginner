@@ -13,8 +13,6 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 This is  a solution to the "Recipe page" front-end coding challenge from [Frontend Mentor][https://www.frontendmentor.io/challenges/recipe-page-KiTsR8QQKm]
 
@@ -41,7 +39,7 @@ Through this project, I gained valuable experience in responsive web design and 
 To see how you can add code snippets, see below:
 
 ```html
-<h1>Some HTML code I'm proud of</h1>
+<h1>Some HTML/CSS code I'm proud of</h1>
 ```
 ```css
 ul li::marker{
@@ -64,6 +62,6 @@ Will make this again with react and add more interactivity to it.
 - [::marker resource](https://www.w3schools.com/cssref/sel_marker.php) - This is an amazing article which helped me finally understand styling list items for this particular project. I'd recommend it to anyone still learning this concept.
 
 ## Author
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Alexandranuthu)
+- Frontend Mentor - [@Alexandranuthu](https://www.frontendmentor.io/profile/Alexandranuthu)
 
 
